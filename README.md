@@ -11,6 +11,8 @@ The repository provides all the information required to reproduce the proposed e
 - Low-level firmware for microcontroller-based devices.
 - ROS 2 packages for control, communication, data acquisition, and experiment management.
 - Documentation to facilitate the assembly, configuration, and operation of the platform.
+- Media files, including images and videos, to illustrate the platform's design and functionality.
+
 
 The objective of this repository is to facilitate the replication, validation, and further development of jamming-based soft robotic systems by the research community.
 
